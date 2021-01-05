@@ -1,4 +1,4 @@
-# Golem For Social Good 
+# Golem For Social Good - AI Education for ALL
 
 Challenge in learning AI is always the computing power. Machine learning and deep learning requires computing power, with just one device, the computing power may not be enough. To solve this problem, some will use cloud computing, but the cost is way too expensive for anyone trying to access this knowledge. Not everyone could have the resource to use free or sponsored computing power. Some are even self learning, or have some reasons not qualified to use academic resources to do their research.
 
